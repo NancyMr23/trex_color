@@ -33,8 +33,6 @@ function preload(){
   obstacle3 = loadImage("assets/obstacle3.png");
   obstacle4 = loadImage("assets/obstacle4.png");
   
-  gameOverImg = loadImage("assets/gameOver.png");
-  restartImg = loadImage("assets/restart.png");
 }
 
 function setup() {
